@@ -1,0 +1,360 @@
+#kotak1 {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    position: absolute;
+    left: 10px;
+    top: 230px;
+    
+
+}
+#kotak1 p {
+    text-align: center;
+}
+
+#kotak2 {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    position: absolute;
+    left: 120px;
+    top: 230px;
+}
+#kotak2 p {
+    text-align: center;
+}
+#kotak3 {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    position: absolute;
+    left: 230px;
+    top: 230px;
+}
+#kotak3 p {
+    text-align: center;
+}
+
+#kotak4 {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    position: absolute;
+    left: 340px;
+    top: 230px;
+}
+#kotak4 p {
+    text-align: center;
+}
+#kotak5 {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    position: absolute;
+    left: 450px;
+    top: 230px;
+}
+#kotak5 p {
+    text-align: center;
+}
+#kotak6 {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    position: absolute;
+    left: 10px;
+    top: 340px;
+}
+#kotak6 p {
+    text-align: center;
+}
+#kotak7 {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    position: absolute;
+    left: 120px;
+    top: 340px;
+}
+#kotak7 p {
+    text-align: center;
+}
+#kotak8 {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    position: absolute;
+    left: 230px;
+    top: 340px;
+}
+#kotak8 p {
+    text-align: center;
+}
+#kotak9 {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    position: absolute;
+    left: 340px;
+    top: 340px;
+}
+#kotak9 p {
+    text-align: center;
+}
+
+#kotak10 {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    position: absolute;
+    left: 450px;
+    top: 340px;
+}
+#kotak10 p {
+    text-align: center;
+}
+#kotak11 {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    position: absolute;
+    left: 10px;
+    top: 450px;
+}
+#kotak11 p {
+    text-align: center;
+}
+#kotak12 {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    position: absolute;
+    left: 120px;
+    top: 450px;
+}
+#kotak12 p {
+    text-align: center;
+}
+#kotak13 {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    position: absolute;
+    left: 230px;
+    top: 450px;
+}
+#kotak13 p {
+    text-align: center;
+}
+
+#kotak14 {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    position: absolute;
+    left: 340px;
+    top: 450px;
+}
+#kotak14 p {
+    text-align: center;
+}
+#kotak15 {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    position: absolute;
+    left: 450px;
+    top: 450px;
+}
+#kotak15 p {
+    text-align: center;
+}
+#kotak16 {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    position: absolute;
+    left: 10px;
+    top: 560px;
+}
+#kotak16 p {
+    text-align: center;
+}
+#kotak17 {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    position: absolute;
+    left: 120px;
+    top: 560px;
+}
+#kotak17 p {
+    text-align: center;
+}
+#kotak18 {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    position: absolute;
+    left: 230px;
+    top: 560px;
+}
+#kotak18 p {
+    text-align: center;
+}
+#kotak19 {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    position: absolute;
+    left: 340px;
+    top: 560px;
+}
+#kotak19 p {
+    text-align: center;
+}
+
+#kotak20 {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    position: absolute;
+    left: 450px;
+    top: 560px;
+}
+#kotak20 p {
+    text-align: center;
+}
+#kotak21 {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    position: absolute;
+    left: 10px;
+    top: 670px;
+}
+#kotak21 p {
+    text-align: center;
+}
+#kotak22 {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    position: absolute;
+    left: 120px;
+    top: 670px;
+}
+#kotak22 p {
+    text-align: center;
+}
+#kotak23 {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    position: absolute;
+    left: 230px;
+    top: 670px;
+}
+#kotak23 p {
+    text-align: center;
+}
+
+#kotak24 {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    position: absolute;
+    left: 340px;
+    top: 670px;
+}
+#kotak24 p {
+    text-align: center;
+}
+
+#kotak25 {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    position: absolute;
+    left: 450px;
+    top: 670px;
+}
+#kotak25 p {
+    text-align: center;
+}
+
